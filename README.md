@@ -40,13 +40,9 @@ https://kubernetes.io/docs/
 
 ### 🔹 Prompt 1 (DevSecOps)
 > "Explique o que é devsecops e ferramentas utilizadas como se eu fosse um iniciante e depois aprofunde para um nível mais avançado"
-  
----
 
 ### 🔧 Prompt Melhorado
 > "Explique DevSecOps com analogia simples, depois detalhe a arquitetura completa incluindo pipeline CI/CD com segurança integrada e exemplos reais de empresas."
-
----
 
 [Ver prompt detalhado](https://github.com/whyariel2/miniguia-estudos-devsecops-notebooklm/blob/main/prompts/prompt_devsecops.md)
 
@@ -55,12 +51,8 @@ https://kubernetes.io/docs/
 ### 🔹 Prompt 2 (OWASP Top 10)
 > "O que é o TOP 10 OWASP e por que é tão importante saber sobre ele quando se trabalha com DevSecOps?"
 
----
-
 #### 🔧 Prompt Melhorado:
 > "Explique cada vulnerabilidade do OWASP Top 10 com exemplos reais de ataques e como mitigá-las em um pipeline DevSecOps."
-
----
 
 [Ver prompt detalhado](https://github.com/whyariel2/miniguia-estudos-devsecops-notebooklm/blob/main/prompts/prompt_owasp.md)
 
