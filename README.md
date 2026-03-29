@@ -40,13 +40,6 @@ https://kubernetes.io/docs/
 
 ### 🔹 Prompt 1 (DevSecOps)
 > "Explique o que é devsecops e ferramentas utilizadas como se eu fosse um iniciante e depois aprofunde para um nível mais avançado"
-
----
-
-## ⚠️ Dificuldades (Cicatrizes)
-- Respostas iniciais muito genéricas  
-- Necessidade de prompts mais específicos  
-- Falta de exemplos práticos em algumas respostas
   
 ---
 
@@ -64,19 +57,19 @@ https://kubernetes.io/docs/
 
 ---
 
-## ⚠️ Dificuldades (Cicatrizes)
-- Respostas iniciais genéricas  
-- Necessidade de maior especificidade nos prompts  
-- Falta de exemplos práticos em algumas respostas
-  
----
-
 #### 🔧 Prompt Melhorado:
 > "Explique cada vulnerabilidade do OWASP Top 10 com exemplos reais de ataques e como mitigá-las em um pipeline DevSecOps."
 
 ---
 
 [Ver prompt detalhado](https://github.com/whyariel2/miniguia-estudos-devsecops-notebooklm/blob/main/prompts/prompt_owasp.md)
+
+---
+
+## ⚠️ Dificuldades (Cicatrizes)
+- Respostas iniciais genéricas  
+- Necessidade de maior especificidade nos prompts  
+- Falta de exemplos práticos em algumas respostas
 
 ---
 
